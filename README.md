@@ -1,2 +1,2 @@
-# Nodejs
-Projet perso
+# Nodejs + express
+small api project
